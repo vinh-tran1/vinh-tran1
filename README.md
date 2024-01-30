@@ -7,7 +7,7 @@ I'm a junior at Yale University studying Computer Science and Economics with dem
 I've interned as a
 - **software engineer** @ Moderna on the Genomics team
 - **tech product manager** @ COAD (startup)
-- **consultant** @ Clarion Healthcare
+- **consultant** @ Clarion | Lumanity
 
 I am always open to connect and expand my network so feel free to reach out at vinh.tran@yale.edu
 
