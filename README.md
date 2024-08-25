@@ -6,15 +6,15 @@ I'm a junior at Yale University studying Computer Science, Economics, and Energy
 
 I've interned as a
 - **software engineer** @ Moderna on the Genomics team
-- **tech product manager** @ COAD (startup)
-- **consultant** @ Clarion | Lumanity
+- **software product manager** @ COAD (startup)
+- **associate consultant** @ Clarion | Lumanity
 
-I am always open to connect and expand my network so feel free to reach out at vinh.tran@yale.edu
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinh-tran1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+I am always open to connect and expand my network so feel free to reach out at vinhtrann101@gmail.com or vinh.tran@yale.edu
 
 <!--
 **vinh-tran1/vinh-tran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinh-tran1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
