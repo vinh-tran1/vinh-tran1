@@ -2,7 +2,7 @@
 
 👋 Hey! 
 
-I'm a junior at Yale University studying Computer Science, Economics, and Energy Studies with demonstrated experience in **software engineering**, **product management**, and **consulting** with a particular interest in entrepreneurship and biotech.
+I'm a student at Yale University studying Computer Science and Economics with demonstrated experience in **software engineering**, **product management**, and **consulting** with a particular interest in entrepreneurship and biotech.
 
 I've interned as a
 - **software engineer** @ Moderna on the Genomics team
