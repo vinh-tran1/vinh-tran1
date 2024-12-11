@@ -4,7 +4,7 @@
 
 I'm a student at Yale University studying Computer Science and Economics with demonstrated experience in **software engineering**, **product management**, and **consulting** with a particular interest in entrepreneurship, technology, and biotech.
 
-I've interned as a
+I've worked as a
 - **software engineer** @ Moderna on the Genomics team
 - **software product manager** @ COAD (startup)
 - **associate consultant** @ Clarion | Lumanity
