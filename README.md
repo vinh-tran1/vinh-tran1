@@ -2,7 +2,7 @@
 
 👋 Hey! 
 
-I'm a student at Yale University studying Computer Science and Economics with demonstrated experience in **software engineering**, **product management**, and **consulting** with a particular interest in entrepreneurship, technology, and biotech.
+I graduated from Yale University studying Computer Science and Economics with demonstrated experience in **software engineering**, **product management**, and **consulting** with a particular interest in entrepreneurship, technology, and biotech.
 
 I've worked as a
 - **software engineer** @ Moderna on the Genomics team
@@ -10,7 +10,7 @@ I've worked as a
 - **associate consultant** @ Clarion | Lumanity
 - **analyst** @ ClearView Healthcare Partners
 
-I am always open to connect and expand my network so feel free to reach out at vinhtrann101@gmail.com or vinh.tran@yale.edu
+I am always open to connect and expand my network so feel free to reach out at vinhtrann101@gmail.com
 
 <!--
 **vinh-tran1/vinh-tran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
